@@ -266,7 +266,6 @@ Special thanks to:
 
 - PVZ Fusion Translator team
 - Blooms QOL
-- Lukas for testing
 
 ---
 
